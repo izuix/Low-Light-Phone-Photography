@@ -1,4 +1,4 @@
-# Low-Light Phone Photography
+# Low Light Phone Photography
 
 ## Unlock your phone camera's full low-light potential:
 Use an app like ProShot that allows you to 
