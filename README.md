@@ -1,6 +1,6 @@
 # Low Light Phone Photography
+## a guide to unlock your phone camera's full low-light potential.
 
-## Unlock your phone camera's full low-light potential:
 Use an app like ProShot that allows you to 
 crank ISO high 
 and set shutterspeed slow, 
